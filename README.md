@@ -105,7 +105,7 @@ Para executar o aplicativo em sua máquina local, siga estas etapas:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/your-username/LogicDelivery.git
+   git clone https://github.com/baku01/LogicDeliveryApp.git
    ```
 
 2. **Abra o projeto no Android Studio.**
